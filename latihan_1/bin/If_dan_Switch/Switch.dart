@@ -7,7 +7,7 @@ main(List<String> arguments) {
     case 0:
       print("nol");
       break;
-    case 1: 
+    case 1:
       print(number);
       print("satu");
       break;
